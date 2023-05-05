@@ -1,0 +1,151 @@
+,年を除いた列名,年を除いた内容
+0,MAX_Blue,0.45 - 0.52[µm](Blue)（最大値）
+1,MAX_Green,0.53 - 0.60[µm](Green)（最大値）
+2,MAX_Red,0.63 - 0.69[µm](Red)（最大値）
+3,MAX_NIR,0.77 - 0.90 [µm](Near Infrared)（最大値）
+4,MAX_SWIR1,1.55 - 1.75[µm](Short-wave Infrared 1)（最大値）
+5,MAX_SWIR2,2.09 - 2.35[µm](Short-wave infrared)（最大値）
+6,MAX_TIRS1,10.40 - 12.50[µm](Low-gain Thermal Infrared 1)（最大値）
+7,MAX_TIRS2,10.40 - 12.50[µm](High-gain Thermal Infrared 1)（最大値）
+8,MAX_TSAVI,Adjusted transformed soil-adjusted VI（最大値）
+9,MAX_Alteration,Alteration（最大値）
+10,MAX_AVI,Ashburn Vegetation Index（最大値）
+11,MAX_BWDRVI,Blue-wide dynamic range vegetation index（最大値）
+12,MAX_Chlgreen,Chlorophyll Green（最大値）
+13,MAX_Cigreen,Chlorophyll Index Green（最大値）
+14,MAX_Cirededge,Chlorophyll IndexRedEdge（最大値）
+15,MAX_Chlred_edge,Chlorophyll Red-Edge（最大値）
+16,MAX_CVI,Chlorophyll vegetation index（最大値）
+17,MAX_CI,Coloration Index（最大値）
+18,MAX_CTVI,Corrected Transformed Vegetation Index（最大値）
+19,MAX_CRI550,CRI550（最大値）
+20,MAX_D678_500,Difference 678/500（最大値）
+21,MAX_DVIMSS,Differenced Vegetation Index MSS（最大値）
+22,MAX_DSWI,Disease water stress index（最大値）
+23,MAX_DSWI_5,Disease-Water Stress Index 5（最大値）
+24,MAX_EVI,Enhanced Vegetation Index（最大値）
+25,MAX_Fe3,"Ferric iron, Fe3+（最大値）"
+26,MAX_Ferric_Oxides,Ferric Oxides（最大値）
+27,MAX_Ferrous_Silicates,Ferrous Silicates（最大値）
+28,MAX_GEMI,Global Environment Monitoring Index（最大値）
+29,MAX_GVMI,Global Vegetation Moisture Index（最大値）
+30,MAX_Gossan,Gossan（最大値）
+31,MAX_GARI,Green atmospherically resistant vegetation index（最大値）
+32,MAX_GLI,Green leaf index（最大値）
+33,MAX_H,Hue（最大値）
+34,MAX_IR550,Inverse reflectance 550（最大値）
+35,MAX_mCRIG,mCRIG（最大値）
+36,MAX_mCRIRE,mCRIRE（最大値）
+37,MAX_MVI,Mid-infrared vegetation index（最大値）
+38,MAX_MCARI1,Modified Chlorophyll Absorption in Reflectance Index 1（最大値）
+39,MAX_MCARI2,Modified Chlorophyll Absorption in Reflectance Index 2（最大値）
+40,MAX_NLI,Nonlinear vegetation index（最大値）
+41,MAX_NormG,Norm G（最大値）
+42,MAX_NormR,Norm R（最大値）
+43,MAX_PPR,Normalized Difference 550/450（最大値）
+44,MAX_PSNDc2,Normalized Difference 800/470（最大値）
+45,MAX_RDVI,RDVI（最大値）
+46,MAX_IF,Shape Index（最大値）
+47,MAX_SLAVI,Specific Leaf Area Vegetation Index（最大値）
+48,MAX_SIPI2,Structure Intensive Pigment Index 2（最大値）
+49,MAX_VARIgreen,Visible Atmospherically Resistant Index Green（最大値）
+50,MED_Blue,0.45 - 0.52[µm](Blue)（中央値）
+51,MED_Green,0.53 - 0.60[µm](Green)（中央値）
+52,MED_Red,0.63 - 0.69[µm](Red)（中央値）
+53,MED_NIR,0.77 - 0.90 [µm](Near Infrared)（中央値）
+54,MED_SWIR1,1.55 - 1.75[µm](Short-wave Infrared 1)（中央値）
+55,MED_SWIR2,2.09 - 2.35[µm](Short-wave infrared)（中央値）
+56,MED_TIRS1,10.40 - 12.50[µm](Low-gain Thermal Infrared 1)（中央値）
+57,MED_TIRS2,10.40 - 12.50[µm](High-gain Thermal Infrared 1)（中央値）
+58,MED_TSAVI,Adjusted transformed soil-adjusted VI（中央値）
+59,MED_Alteration,Alteration（中央値）
+60,MED_AVI,Ashburn Vegetation Index（中央値）
+61,MED_BWDRVI,Blue-wide dynamic range vegetation index（中央値）
+62,MED_Chlgreen,Chlorophyll Green（中央値）
+63,MED_Cigreen,Chlorophyll Index Green（中央値）
+64,MED_Cirededge,Chlorophyll IndexRedEdge（中央値）
+65,MED_Chlred_edge,Chlorophyll Red-Edge（中央値）
+66,MED_CVI,Chlorophyll vegetation index（中央値）
+67,MED_CI,Coloration Index（中央値）
+68,MED_CTVI,Corrected Transformed Vegetation Index（中央値）
+69,MED_CRI550,CRI550（中央値）
+70,MED_D678_500,Difference 678/500（中央値）
+71,MED_DVIMSS,Differenced Vegetation Index MSS（中央値）
+72,MED_DSWI,Disease water stress index（中央値）
+73,MED_DSWI_5,Disease-Water Stress Index 5（中央値）
+74,MED_EVI,Enhanced Vegetation Index（中央値）
+75,MED_Fe3,"Ferric iron, Fe3+（中央値）"
+76,MED_Ferric_Oxides,Ferric Oxides（中央値）
+77,MED_Ferrous_Silicates,Ferrous Silicates（中央値）
+78,MED_GEMI,Global Environment Monitoring Index（中央値）
+79,MED_GVMI,Global Vegetation Moisture Index（中央値）
+80,MED_Gossan,Gossan（中央値）
+81,MED_GARI,Green atmospherically resistant vegetation index（中央値）
+82,MED_GLI,Green leaf index（中央値）
+83,MED_H,Hue（中央値）
+84,MED_IR550,Inverse reflectance 550（中央値）
+85,MED_mCRIG,mCRIG（中央値）
+86,MED_mCRIRE,mCRIRE（中央値）
+87,MED_MVI,Mid-infrared vegetation index（中央値）
+88,MED_MCARI1,Modified Chlorophyll Absorption in Reflectance Index 1（中央値）
+89,MED_MCARI2,Modified Chlorophyll Absorption in Reflectance Index 2（中央値）
+90,MED_NLI,Nonlinear vegetation index（中央値）
+91,MED_NormG,Norm G（中央値）
+92,MED_NormR,Norm R（中央値）
+93,MED_PPR,Normalized Difference 550/450（中央値）
+94,MED_PSNDc2,Normalized Difference 800/470（中央値）
+95,MED_RDVI,RDVI（中央値）
+96,MED_IF,Shape Index（中央値）
+97,MED_SLAVI,Specific Leaf Area Vegetation Index（中央値）
+98,MED_SIPI2,Structure Intensive Pigment Index 2（中央値）
+99,MED_VARIgreen,Visible Atmospherically Resistant Index Green（中央値）
+100,MIN_Blue,0.45 - 0.52[µm](Blue)（最小値）
+101,MIN_Green,0.53 - 0.60[µm](Green)（最小値）
+102,MIN_Red,0.63 - 0.69[µm](Red)（最小値）
+103,MIN_NIR,0.77 - 0.90 [µm](Near Infrared)（最小値）
+104,MIN_SWIR1,1.55 - 1.75[µm](Short-wave Infrared 1)（最小値）
+105,MIN_SWIR2,2.09 - 2.35[µm](Short-wave infrared)（最小値）
+106,MIN_TIRS1,10.40 - 12.50[µm](Low-gain Thermal Infrared 1)（最小値）
+107,MIN_TIRS2,10.40 - 12.50[µm](High-gain Thermal Infrared 1)（最小値）
+108,MIN_TSAVI,Adjusted transformed soil-adjusted VI（最小値）
+109,MIN_Alteration,Alteration（最小値）
+110,MIN_AVI,Ashburn Vegetation Index（最小値）
+111,MIN_BWDRVI,Blue-wide dynamic range vegetation index（最小値）
+112,MIN_Chlgreen,Chlorophyll Green（最小値）
+113,MIN_Cigreen,Chlorophyll Index Green（最小値）
+114,MIN_Cirededge,Chlorophyll IndexRedEdge（最小値）
+115,MIN_Chlred_edge,Chlorophyll Red-Edge（最小値）
+116,MIN_CVI,Chlorophyll vegetation index（最小値）
+117,MIN_CI,Coloration Index（最小値）
+118,MIN_CTVI,Corrected Transformed Vegetation Index（最小値）
+119,MIN_CRI550,CRI550（最小値）
+120,MIN_D678_500,Difference 678/500（最小値）
+121,MIN_DVIMSS,Differenced Vegetation Index MSS（最小値）
+122,MIN_DSWI,Disease water stress index（最小値）
+123,MIN_DSWI_5,Disease-Water Stress Index 5（最小値）
+124,MIN_EVI,Enhanced Vegetation Index（最小値）
+125,MIN_Fe3,"Ferric iron, Fe3+（最小値）"
+126,MIN_Ferric_Oxides,Ferric Oxides（最小値）
+127,MIN_Ferrous_Silicates,Ferrous Silicates（最小値）
+128,MIN_GEMI,Global Environment Monitoring Index（最小値）
+129,MIN_GVMI,Global Vegetation Moisture Index（最小値）
+130,MIN_Gossan,Gossan（最小値）
+131,MIN_GARI,Green atmospherically resistant vegetation index（最小値）
+132,MIN_GLI,Green leaf index（最小値）
+133,MIN_H,Hue（最小値）
+134,MIN_IR550,Inverse reflectance 550（最小値）
+135,MIN_mCRIG,mCRIG（最小値）
+136,MIN_mCRIRE,mCRIRE（最小値）
+137,MIN_MVI,Mid-infrared vegetation index（最小値）
+138,MIN_MCARI1,Modified Chlorophyll Absorption in Reflectance Index 1（最小値）
+139,MIN_MCARI2,Modified Chlorophyll Absorption in Reflectance Index 2（最小値）
+140,MIN_NLI,Nonlinear vegetation index（最小値）
+141,MIN_NormG,Norm G（最小値）
+142,MIN_NormR,Norm R（最小値）
+143,MIN_PPR,Normalized Difference 550/450（最小値）
+144,MIN_PSNDc2,Normalized Difference 800/470（最小値）
+145,MIN_RDVI,RDVI（最小値）
+146,MIN_IF,Shape Index（最小値）
+147,MIN_SLAVI,Specific Leaf Area Vegetation Index（最小値）
+148,MIN_SIPI2,Structure Intensive Pigment Index 2（最小値）
+149,MIN_VARIgreen,Visible Atmospherically Resistant Index Green（最小値）
