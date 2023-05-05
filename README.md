@@ -2,10 +2,10 @@
 
 ---
 
-## README.md(*)
+## README.md
 >このREADME.mdファイル
 
-## requirements.txt(*)
+## requirements.txt
 
 >$ pip install requirements.txt
 
@@ -124,13 +124,13 @@
 
 ---
 
-## main(*)
+## main
 ### setup.py
 はじめにこのファイルを実行すること。  
 minimal_feature_description_for_Landsat_data.csvが生成され、read_info.pyの実行環境が構築される。  
 
-#### main.py(*)
-実行用のメインファイル  
+#### main.py
+実行用メインファイル  
 
 #### preprocessor
 データの前処理  
@@ -189,5 +189,15 @@ minimal_feature_description_for_Landsat_data.csvが生成され、read_info.py�
 >値域を割合に抑えることが難しく、時間の都合上アンサンブル学習の対象からは外した。  
 
 
-#### evaluator(*)
+#### evaluator
 モデルの評価  
+
+・make_score_rmse  
+本コンペでの誤差関数。  
+二乗誤差平均に平方をとったもの。  
+
+
+・submit  
+提出用ファイルを出力する。  
+
+
