@@ -128,6 +128,7 @@
 ### setup.py
 はじめにこのファイルを実行すること。  
 minimal_feature_description_for_Landsat_data.csvが生成され、read_info.pyの実行環境が構築される。  
+分割した公式ファイルを結合するコードも兼ねている。
 
 #### main.py
 実行用メインファイル  
@@ -193,11 +194,11 @@ minimal_feature_description_for_Landsat_data.csvが生成され、read_info.py�
 モデルの評価  
 
 ・make_score_rmse  
-本コンペでの誤差関数。  
-二乗誤差平均に平方をとったもの。  
+>本コンペでの誤差関数。  
+>二乗誤差平均に平方をとったもの。  
 
 
 ・submit  
-提出用ファイルを出力する。  
+>提出用ファイルを出力。  
 
 

@@ -19,5 +19,5 @@ class Output():
           return rmse_score
           
      def submit(output:pd.DataFrame, filename:str) -> None:
-         output.to_csv(f"submits/{filename}.csv",index=False)
+         output.to_csv(f"submits/{filename}.csv",header=False)
          print("output!")
