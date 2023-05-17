@@ -3,7 +3,8 @@
 ---
 
 ## README.md
->このREADME.mdファイル
+>このREADME.mdファイル  
+
 
 ## requirements.txt
 
@@ -125,8 +126,13 @@
 ---
 
 ## main
+
+### main.sh
+>実行用シェルスクリプト。  
+>setup.pyを実行後にmain.pyを実行する。
+
 ### setup.py
-はじめにこのファイルを実行すること。  
+はじめにこのファイルを実行する。  
 minimal_feature_description_for_Landsat_data.csvが生成され、read_info.pyの実行環境が構築される。  
 分割した公式ファイルを結合するコードも兼ねている。
 
